@@ -1,0 +1,98 @@
+commit 5867d9b55ee7c6e2d2d827e36eff886131174892
+Author: Diego Lenovo Desktop <diegomanuelmfq@outlook.com>
+Date:   Mon Nov 14 20:22:08 2022 -0500
+
+    Agregando dos párrafos
+
+commit 4432643d3a5eaf5bba6938785fa0ca6dcf7972dc
+Merge: 7f380d8 6c63f6d
+Author: Diego Lenovo Desktop <diegomanuelmfq@outlook.com>
+Date:   Mon Nov 14 19:28:39 2022 -0500
+
+    Resolviendo conflicto en estaciones del año y fechas de inicio
+
+commit 7f380d86c44ab678c6a0b430c44df3ebd1e34348
+Author: Diego Lenovo Desktop <diegomanuelmfq@outlook.com>
+Date:   Mon Nov 14 19:10:50 2022 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 6c63f6d8062ba097b35a7c38bdfffb32ff5bb2bf
+Author: Diego Lenovo Desktop <diegomanuelmfq@outlook.com>
+Date:   Mon Nov 14 19:10:50 2022 -0500
+
+    Agregando las estaciones del año
+
+commit 0b00e36978c3f66a650068db51a0dc749d655e1f
+Merge: a9d13fa 421ebda
+Author: Diego Lenovo Desktop <diegomanuelmfq@outlook.com>
+Date:   Mon Nov 14 18:31:32 2022 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit 421ebda1520abcff963fa4147130de31580cd217
+Author: Diego Lenovo Desktop <diegomanuelmfq@outlook.com>
+Date:   Mon Nov 14 18:21:52 2022 -0500
+
+    Agregando index.js al index.html
+
+commit a9d13fa2ab29d0cbe84dbcb3d7360f61cb7d3adb
+Author: Diego Lenovo Desktop <diegomanuelmfq@outlook.com>
+Date:   Mon Nov 14 18:18:52 2022 -0500
+
+    Agregando style.css al index.html
+
+commit 32987ca7e22704f63e273628ee778c165c4e0826
+Merge: 2d85720 8d39982
+Author: Diego Lenovo Desktop <diegomanuelmfq@outlook.com>
+Date:   Mon Nov 14 17:52:46 2022 -0500
+
+    Merge branch 'js'
+
+commit 8d39982da76aa67bccf62bf207b7ff05126702cf
+Author: Diego Lenovo Desktop <diegomanuelmfq@outlook.com>
+Date:   Mon Nov 14 17:43:21 2022 -0500
+
+    Creando index.js
+
+commit 2d85720ac82e3d1bf43c2ab7103ae6db8170fff1
+Author: Diego Lenovo Desktop <diegomanuelmfq@outlook.com>
+Date:   Mon Nov 14 17:35:45 2022 -0500
+
+    Creando style.css
+
+commit 8e431c5b17a8648252a854a85d73276ecde44e43
+Author: Diego Lenovo Desktop <diegomanuelmfq@outlook.com>
+Date:   Mon Nov 14 17:31:13 2022 -0500
+
+    Creando index.html
+
+commit 567de1270ed23aadad47378ee714ec2d64a7dc06
+Author: Diego Lenovo Desktop <diegomanuelmfq@outlook.com>
+Date:   Mon Nov 14 16:57:37 2022 -0500
+
+    Ignorando archivos .exe
+
+commit 08556b2d5b9f30d285b91e4c2f0c8ec8aff5da9e
+Author: Thecoderdiego <105310337+Thecoderdiego@users.noreply.github.com>
+Date:   Mon Nov 14 16:25:14 2022 -0500
+
+    Creando licencia del repositorio.
+
+commit 565cd8cb459d7497735171e7354f79b42acf6906
+Author: Diego Lenovo Desktop <diegomanuelmfq@outlook.com>
+Date:   Mon Nov 14 16:17:17 2022 -0500
+
+    Agregando más contenido al README
+
+commit 9873fd731a8d30b2474d355e87437d8a8aa6d113
+Author: Diego Lenovo Desktop <diegomanuelmfq@outlook.com>
+Date:   Mon Nov 14 16:05:09 2022 -0500
+
+    Agregando contenido inicial al README
+
+commit c710c45ef98148028ebc163ea87774dc016fa5d6
+Author: Diego Lenovo Desktop <diegomanuelmfq@outlook.com>
+Date:   Mon Nov 14 16:03:02 2022 -0500
+
+    Primer commit
